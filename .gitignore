@@ -1,0 +1,10 @@
+node_modules/
+dist/
+out/
+renders/
+assets/test/
+.env
+.env.*
+*.bak-*
+.DS_Store
+Thumbs.db
